@@ -7,7 +7,7 @@ layout: default
 <span style="color: #8F2137"> **Welcome to my website!**</span>
 <br>
 
-I am a Research Asscoiate at the [3CS](https://https://3cs.ashoka.edu.in/) in the [Ashoka University](https://www.ashoka.edu.in/).
+I am a Research Asscoiate at the [3CS](https://3cs.ashoka.edu.in/) in the [Ashoka University](https://www.ashoka.edu.in/).
 <!--  My name is Naveen Hari. -->
 <!-- I am a PhD candidate in the [Department of Economics](https://krannert.purdue.edu/academics/economics/) at [Purdue University](https://www.purdue.edu/). -->
 <!-- , where I'm advised by Victoria Prowse, Trevor Gallen and Kevin Mumford -->
