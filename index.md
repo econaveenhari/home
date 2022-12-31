@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="headshot.png" style="width:250px;height:250px;">
+<img src="Naveen_Hari.png" style="width:250px;height:250px;">
 
 <span style="color: #8F2137"> **Welcome to my website!**</span>
 <br>
@@ -26,10 +26,10 @@ I am a Research Asscoiate at the [3CS](https://https://3cs.ashoka.edu.in/) in th
 <!-- I will be interviewing remotely at any interested party's convenience. -->
 
 <span style="color: #8F2137; "> **Contact Information:**</span> <br>
-CODA at Tech Square <br>
-Georgia Institute of Technology <br>
-756 W Peachtree St NW <br>
-Atlanta, GA 30308 <br>
+Neeharam <br>
+Haritham Colony, Anangoor <br>
+Vidyanagar P.O, Kasaragod <br>
+Kerala, India 671123 <br>
 <!--
 Department of Economics <br>
 Krannert School of Management <br>
