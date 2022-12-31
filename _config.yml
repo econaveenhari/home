@@ -1,0 +1,21 @@
+title: Naveen Hari
+url: "https://econaveenhari.github.io/home"
+baseurl: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  
+markdown_extensions:
+      - fontawesome_markdown
+
+#tracking_id: 
+
+footer: yes
+footer_url: "https://econaveenhari.github.io/home"
+footer_text: "Naveen Hari"
+
+sass:
+    style: compressed
+    sass_dir: _sass
