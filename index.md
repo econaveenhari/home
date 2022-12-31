@@ -4,7 +4,7 @@ layout: default
 
 <img src="Naveen_Hari.png" style="width:250px;height:250px;">
 
-<span style="color: #8F2137"> **Welcome to my website!**</span>
+<span style="color: #7d458b"> **Welcome to my website!**</span>
 <br>
 
 I am a Research Asscoiate at the [3CS](https://3cs.ashoka.edu.in/) in the [Ashoka University](https://www.ashoka.edu.in/).
@@ -25,7 +25,7 @@ I am a Research Asscoiate at the [3CS](https://3cs.ashoka.edu.in/) in the [Ashok
 
 <!-- I will be interviewing remotely at any interested party's convenience. -->
 
-<span style="color: #8F2137; "> **Contact Information:**</span> <br>
+<span style="color: #7d458b; "> **Contact Information:**</span> <br>
 Neeharam <br>
 Haritham Colony, Anangoor <br>
 Vidyanagar P.O, Kasaragod <br>
